@@ -1,0 +1,68 @@
+{
+  "timestamp": "2025-03-21T04:10:30.185Z",
+  "reviews": [
+    {
+      "name": "places/ChIJzyN0_iD3tUwRcvrALOdnCpo/reviews/ChdDSUhNMG9nS0VJQ0FnSURfejhTaHR3RRAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "They do good work, they are responsible, above all, very good people.",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Hacen buen trabajo son responsables, sobre todo muy buenas personas",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Yobany Cortez",
+        "uri": "https://www.google.com/maps/contrib/102249239049869523463/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUazxAj4_HHF9EowIlj3i74tCFAfSpMGcRAewWtfqQaXYeCCSI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-29T12:40:25.208982Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfejhTaHR3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfejhTaHR3RRAB!2m1!1s0x4cb5f720fe7423cf:0x9a0a67e72cc0fa72"
+    },
+    {
+      "name": "places/ChIJzyN0_iD3tUwRcvrALOdnCpo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMnVTTjF3RRAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "Excellent service, very professional",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Exelente servicio, muy prefecionales",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Baldu Cortez",
+        "uri": "https://www.google.com/maps/contrib/106843689482422866605/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvL_OIEPJtB_NiYs801MehUpmqM3cpnxIBmZeJuVOU_y4Xb2ma=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-31T03:50:23.884595Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBMnVTTjF3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBMnVTTjF3RRAB!2m1!1s0x4cb5f720fe7423cf:0x9a0a67e72cc0fa72"
+    },
+    {
+      "name": "places/ChIJzyN0_iD3tUwRcvrALOdnCpo/reviews/ChdDSUhNMG9nS0VJQ0FnSURfdDh1NXJRRRAB",
+      "relativePublishTimeDescription": "in the last week",
+      "rating": 4,
+      "text": {
+        "text": "Excellent paint job",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Excelente trabajo de pintura",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Yoider Yancy",
+        "uri": "https://www.google.com/maps/contrib/115306436663344694367/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3seU4wxenBfH-V78NWTEtsl-1tLsloShTGobCl2qqHE94b8-z=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-03-21T04:06:00.389197Z",
+      "flagContentUri": "https://www.google.com/local/review/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfdDh1NXJRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfdDh1NXJRRRAB!2m1!1s0x4cb5f720fe7423cf:0x9a0a67e72cc0fa72"
+    }
+  ]
+}
